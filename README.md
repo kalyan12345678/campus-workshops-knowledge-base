@@ -1,4 +1,4 @@
-# campus-workshops-knowledge-base
+# campus-workshops-knowledge
 
 Knowledge Base for Campus Workshops
 
